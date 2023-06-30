@@ -10,7 +10,7 @@
 
 Заказчик передал вам файл в формате Excel, в котором сформирован отчёт.
 
-![Exel.png](https://github.com/Andrewsolo1969/12-2-hw/blob/main/img/Exel.png)
+![Exel.png](https://github.com/Andrewsolo1969/12-1-hw/blob/main/img/Exel.png)
 
 На основе этого отчёта нужно выполнить следующие задания.
 
